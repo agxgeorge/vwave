@@ -1,4 +1,4 @@
-#lsdkfjslkdfjlskdfjlskdfjlkfdj
+# Our Project, yay! 
 
 import wave
 
@@ -10,3 +10,5 @@ def main():
 	print (width)
 	
 main()
+
+
