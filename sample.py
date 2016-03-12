@@ -2,6 +2,8 @@
 
 import wave
 
+key = "2URAQSUTOO6R543X6"
+
 print ("Hello World")
 
 def main():
